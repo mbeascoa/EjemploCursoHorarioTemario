@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EjemploCursoHorarioTemario</string>
+    <string name="radioButton1">Mañana</string>
+    <string name="radioButton2">Tarde</string>
+    <string name="radioButton3">Indiferente</string>
+    <string name="checkBox1">.NET</string>
+    <string name="checkBox2">Java</string>
+    <string name="checkBox3">Oracle</string>
+    <string name="btnGuardar">GUARDAR</string>
+    <string name="textViewVentana2_1">Solicitud recibida con los siguientes datos : </string>
+    <string name="textViewVentana2_2">Eleccion</string>
+</resources>
